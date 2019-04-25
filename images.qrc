@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pipe.png</file>
+        <file>bg.png</file>
+    </qresource>
+</RCC>
